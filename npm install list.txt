@@ -1,0 +1,7 @@
+next-joi
+joi
+next-connect
+axios
+next-auth
+jsonwebtoken
+moment
